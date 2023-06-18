@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "big.js": "^6.2.1",
     "jquery": "^3.7.0"
   }
 }
