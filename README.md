@@ -1,6 +1,6 @@
 # Point of Sale System (POS System) 
 
-## Welcome to My POS Application Project !
+## Welcome to My POS System Project !
 
 I developed this project within my training period in IJSE(Institute of Software Engineering) as a Training FullStack Developer to comprehensive understanding and practice of how different architectural styles and technologies can be utilized to build robust and scalable software systems.
 
